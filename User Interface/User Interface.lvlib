@@ -18,6 +18,7 @@
 	<Item Name="User Interface Messages" Type="Folder">
 		<Item Name="Change Delay Method Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Change Delay Method Msg/Change Delay Method Msg.lvclass"/>
 		<Item Name="Overwrite Absolute Delay Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Overwrite Absolute Delay Msg/Overwrite Absolute Delay Msg.lvclass"/>
+		<Item Name="Start Measurement Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Start Measurement Msg/Start Measurement Msg.lvclass"/>
 		<Item Name="Update Duration per Period Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Update Duration per Period Msg/Update Duration per Period Msg.lvclass"/>
 		<Item Name="Update Total Duration Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Update Total Duration Msg/Update Total Duration Msg.lvclass"/>
 	</Item>
