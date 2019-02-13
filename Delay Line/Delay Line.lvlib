@@ -7,5 +7,6 @@
 	<Item Name="Driver" Type="Folder">
 		<Item Name="ODL-150.lvlib" Type="Library" URL="../../Drivers/ODL-150/ODL-150.lvlib"/>
 	</Item>
-	<Item Name="Delay Line.lvclass" Type="LVClass" URL="../Delay Line/Delay Line.lvclass"/>
+	<Item Name="Abstract Delay Line.lvclass" Type="LVClass" URL="../Abstract Delay Line/Abstract Delay Line.lvclass"/>
+	<Item Name="DAQmx Delay Line.lvclass" Type="LVClass" URL="../DAQmx Delay Line/DAQmx Delay Line.lvclass"/>
 </Library>
