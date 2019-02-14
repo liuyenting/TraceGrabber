@@ -13,6 +13,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>
 		<Item Name="User Interface.lvlib" Type="Library" URL="../User Interface/User Interface.lvlib"/>
 		<Item Name="Controllers.lvlib" Type="Library" URL="../Controllers/Controllers.lvlib"/>
 		<Item Name="Delay Line.lvlib" Type="Library" URL="../Delay Line/Delay Line.lvlib"/>
@@ -56,7 +57,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{65ED5992-752E-43CA-8892-0413C7D8EE94}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/User Interface.lvlib/User Interface.lvclass/Load App.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Load App.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
