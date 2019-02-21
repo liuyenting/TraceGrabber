@@ -10,6 +10,7 @@
 
 </Property>
 	<Item Name="Demo" Type="Folder">
+		<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
 		<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 	</Item>
@@ -30,6 +31,8 @@
 		<Item Name="Reset.vi" Type="VI" URL="../Reset.vi"/>
 		<Item Name="Set PMT Power.vi" Type="VI" URL="../Set PMT Power.vi"/>
 		<Item Name="Write Port.vi" Type="VI" URL="../Write Port.vi"/>
+		<Item Name="Gate Time.ctl" Type="VI" URL="../Gate Time.ctl"/>
+		<Item Name="Transfer Mode.ctl" Type="VI" URL="../Transfer Mode.ctl"/>
 	</Item>
 	<Item Name="Utils" Type="Folder">
 		<Item Name="Error Converter.vi" Type="VI" URL="../Error Converter.vi"/>
