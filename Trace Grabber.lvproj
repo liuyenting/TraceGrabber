@@ -106,6 +106,60 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{552DA1F4-3ACB-4D94-BD0B-B7241628E839}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Trace Grabber.exe</Property>
 			</Item>
+			<Item Name="C8855-01 Demo" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{120B034D-F417-40B1-80EB-96714D651313}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{8157E480-4887-4D18-A509-59AACFC993EB}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{FA4A5A72-DA65-4F05-BBEE-4DD92099DDD6}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">C8855-01 Demo</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Builds/C8855-01 Demo</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{C15F081F-5A2D-474D-9643-67F481A98E65}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">C8855-01 Demo.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../Builds/C8855-01 Demo/C8855-01 Demo.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../Builds/C8855-01 Demo</Property>
+				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FE024203-12D8-48B2-A097-0F15D3FD2F38}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Photon Counter.lvlib/Driver/C8855-01.lvlib/Demo/Demo.vi</Property>
+				<Property Name="Source[1].properties[0].type" Type="Str">Show menu bar</Property>
+				<Property Name="Source[1].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[1].type" Type="Str">Show Abort button</Property>
+				<Property Name="Source[1].properties[1].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[2].type" Type="Str">Show toolbar</Property>
+				<Property Name="Source[1].properties[2].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[3].type" Type="Str">Window run-time position</Property>
+				<Property Name="Source[1].properties[3].value" Type="Str">Centered</Property>
+				<Property Name="Source[1].properties[4].type" Type="Str">Allow debugging</Property>
+				<Property Name="Source[1].properties[4].value" Type="Bool">false</Property>
+				<Property Name="Source[1].propertiesCount" Type="Int">5</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Photon Counter.lvlib/Driver/C8855-01.lvlib/DLL/C8855-01api.dll</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_companyName" Type="Str">National Taiwan University</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">C8855-01 Demo</Property>
+				<Property Name="TgtF_internalName" Type="Str">C8855-01 Demo</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2019 National Taiwan University</Property>
+				<Property Name="TgtF_productName" Type="Str">C8855-01 Demo</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{C5315DB3-C9B0-4456-88D9-01C2F1048022}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">C8855-01 Demo.exe</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
