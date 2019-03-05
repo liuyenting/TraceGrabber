@@ -19,7 +19,6 @@
 		<Item Name="Controllers.lvlib" Type="Library" URL="../Controllers/Controllers.lvlib"/>
 		<Item Name="Delay Line.lvlib" Type="Library" URL="../Delay Line/Delay Line.lvlib"/>
 		<Item Name="Photon Counter.lvlib" Type="Library" URL="../Photon Counter/Photon Counter.lvlib"/>
-		<Item Name="Trigger Mode.ctl" Type="VI" URL="../Drivers/C8855-01/Trigger Mode.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>

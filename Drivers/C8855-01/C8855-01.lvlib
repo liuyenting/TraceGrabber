@@ -33,6 +33,7 @@
 		<Item Name="Write Port.vi" Type="VI" URL="../Write Port.vi"/>
 		<Item Name="Gate Time.ctl" Type="VI" URL="../Gate Time.ctl"/>
 		<Item Name="Transfer Mode.ctl" Type="VI" URL="../Transfer Mode.ctl"/>
+		<Item Name="Trigger Mode.ctl" Type="VI" URL="../Trigger Mode.ctl"/>
 	</Item>
 	<Item Name="Utils" Type="Folder">
 		<Item Name="Convert Real Time to Gate Time Option.vi" Type="VI" URL="../Convert Real Time to Gate Time Option.vi"/>
