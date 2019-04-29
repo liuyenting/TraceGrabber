@@ -16,6 +16,8 @@
 		<Item Name="Traces.ctl" Type="VI" URL="../Traces.ctl"/>
 	</Item>
 	<Item Name="User Interface Messages" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Abort Measurement Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Abort Measurement Msg/Abort Measurement Msg.lvclass"/>
 		<Item Name="Change Delay Method Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Change Delay Method Msg/Change Delay Method Msg.lvclass"/>
 		<Item Name="Overwrite Absolute Delay Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Overwrite Absolute Delay Msg/Overwrite Absolute Delay Msg.lvclass"/>
 		<Item Name="Start Measurement Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Start Measurement Msg/Start Measurement Msg.lvclass"/>
