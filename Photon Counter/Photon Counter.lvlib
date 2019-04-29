@@ -7,5 +7,7 @@
 	<Item Name="Driver" Type="Folder">
 		<Item Name="C8855-01.lvlib" Type="Library" URL="../../Drivers/C8855-01/C8855-01.lvlib"/>
 	</Item>
-	<Item Name="Photon Counter.lvclass" Type="LVClass" URL="../Photon Counter.lvclass"/>
+	<Item Name="Abstract Photon Counter.lvclass" Type="LVClass" URL="../Abstract Photon Counter/Abstract Photon Counter.lvclass"/>
+	<Item Name="C8855.lvclass" Type="LVClass" URL="../C8855/C8855.lvclass"/>
+	<Item Name="Simulate.lvclass" Type="LVClass" URL="../Simulate/Simulate.lvclass"/>
 </Library>
