@@ -19,6 +19,7 @@
 		<Item Name="Controllers.lvlib" Type="Library" URL="../Controllers/Controllers.lvlib"/>
 		<Item Name="Delay Line.lvlib" Type="Library" URL="../Delay Line/Delay Line.lvlib"/>
 		<Item Name="Photon Counter.lvlib" Type="Library" URL="../Photon Counter/Photon Counter.lvlib"/>
+		<Item Name="Configurations.lvlib" Type="Library" URL="../Configurations/Configurations.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
@@ -63,6 +64,9 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
+			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Session - Root.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/_Session Fwk/Session - Root.lvclass"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 		</Item>
@@ -121,6 +125,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C15F081F-5A2D-474D-9643-67F481A98E65}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">C8855-01 Demo.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Builds/C8855-01 Demo/C8855-01 Demo.exe</Property>
