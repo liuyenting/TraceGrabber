@@ -24,14 +24,14 @@
 	<Item Name="Acquisition Controller.ctl" Type="Class Private Data" URL="Acquisition Controller.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Pre Launch Init.vi" Type="VI" URL="../Pre Launch Init.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;B!=!!?!!!S%5.P&lt;H2S&lt;WRM:8*T,GRW&lt;'FC(E&amp;D=86J=WFU;7^O)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=Q!!'E&amp;D=86J=WFU;7^O)%.P&lt;H2S&lt;WRM:8)A&lt;X6U!!"71(!!(A!!-B&amp;$&lt;WZU=G^M&lt;'6S=SZM&gt;GRJ9BZ"9X&amp;V;8.J&gt;'FP&lt;C"$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!!"F"9X&amp;V;8.J&gt;'FP&lt;C"$&lt;WZU=G^M&lt;'6S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!%!!1!"!!'!Q!!?!!!#1!!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#3!!!!!!%!"Q!!!!!</Property>
+	<Item Name="Actor Core.vi" Type="VI" URL="../Actor Core.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;"!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!F&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!F"9X2P=C"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!&amp;:!=!!?!!!S%5.P&lt;H2S&lt;WRM:8*T,GRW&lt;'FC(E&amp;D=86J=WFU;7^O)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=Q!!'5&amp;D=86J=WFU;7^O)%.P&lt;H2S&lt;WRM:8)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!*!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">268972560</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>
