@@ -340,6 +340,19 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{C5315DB3-C9B0-4456-88D9-01C2F1048022}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">C8855-01 Demo.exe</Property>
 			</Item>
+			<Item Name="Source Zip" Type="Zip File">
+				<Property Name="Absolute[0]" Type="Bool">false</Property>
+				<Property Name="BuildName" Type="Str">Source Zip</Property>
+				<Property Name="Comments" Type="Str"></Property>
+				<Property Name="DestinationID[0]" Type="Str">{B9DC8985-C947-4DA2-8055-83F6CC471658}</Property>
+				<Property Name="DestinationItemCount" Type="Int">1</Property>
+				<Property Name="DestinationName[0]" Type="Str">Destination Directory</Property>
+				<Property Name="IncludedItemCount" Type="Int">1</Property>
+				<Property Name="IncludedItems[0]" Type="Ref">/My Computer</Property>
+				<Property Name="IncludeProject" Type="Bool">true</Property>
+				<Property Name="Path[0]" Type="Path">../Builds/Trace Grabber Source.zip</Property>
+				<Property Name="ZipBase" Type="Str">NI_zipbasedefault</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
