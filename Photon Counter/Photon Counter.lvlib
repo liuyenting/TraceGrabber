@@ -8,6 +8,6 @@
 		<Item Name="C8855-01.lvlib" Type="Library" URL="../../Drivers/C8855-01/C8855-01.lvlib"/>
 	</Item>
 	<Item Name="Abstract Photon Counter.lvclass" Type="LVClass" URL="../Abstract Photon Counter/Abstract Photon Counter.lvclass"/>
-	<Item Name="C8855.lvclass" Type="LVClass" URL="../C8855/C8855.lvclass"/>
+	<Item Name="C8855 (DAQmx Trigger).lvclass" Type="LVClass" URL="../C8855 (DAQmx Trigger)/C8855 (DAQmx Trigger).lvclass"/>
 	<Item Name="Simulate.lvclass" Type="LVClass" URL="../Simulate/Simulate.lvclass"/>
 </Library>
