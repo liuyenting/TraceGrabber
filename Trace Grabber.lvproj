@@ -22,6 +22,8 @@
 		<Item Name="Configurations.lvlib" Type="Library" URL="../Configurations/Configurations.lvlib"/>
 		<Item Name="Drivers.lvlib" Type="Library" URL="../Drivers/Drivers.lvlib"/>
 		<Item Name="Trace Grabber.lvlib" Type="Library" URL="../Trace Grabber/Trace Grabber.lvlib"/>
+		<Item Name="Scan Engine States.ctl" Type="VI" URL="../Trace Grabber/Scan Engine States.ctl"/>
+		<Item Name="UI Event Loop States.ctl" Type="VI" URL="../Trace Grabber/UI Event Loop States.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
