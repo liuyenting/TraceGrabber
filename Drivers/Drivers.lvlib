@@ -4,5 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Agilis.lvlib" Type="Library" URL="../Agilis/Agilis.lvlib"/>
 	<Item Name="C8855-01.lvlib" Type="Library" URL="../C8855-01/C8855-01.lvlib"/>
 </Library>
