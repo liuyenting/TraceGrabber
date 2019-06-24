@@ -16,14 +16,16 @@
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../Support VIs/Message Queue/Message Queue.lvlib"/>
 			<Item Name="Stop Event.lvlib" Type="Library" URL="../Support VIs/Stop Event/Stop Event.lvlib"/>
+			<Item Name="Set Enabled States on Multiple Controls.vi" Type="VI" URL="../Support VIs/Set Enabled States on Multiple Controls.vi"/>
+			<Item Name="Check Loop Error.vi" Type="VI" URL="../Support VIs/Check Loop Error.vi"/>
 		</Item>
-		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>
-		<Item Name="tg_config.ini" Type="Document" URL="../tg_config.ini"/>
 		<Item Name="Drivers.lvlib" Type="Library" URL="../Drivers/Drivers.lvlib"/>
 		<Item Name="Trace Grabber.lvlib" Type="Library" URL="../Trace Grabber/Trace Grabber.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
 		<Item Name="Scanner.lvlib" Type="Library" URL="../Scanner/Scanner.lvlib"/>
+		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>
+		<Item Name="tg_config.ini" Type="Document" URL="../tg_config.ini"/>
 		<Item Name="_User Interface.lvlib" Type="Library" URL="../User Interface/_User Interface.lvlib"/>
 		<Item Name="_Controllers.lvlib" Type="Library" URL="../Controllers/_Controllers.lvlib"/>
 		<Item Name="_Delay Line.lvlib" Type="Library" URL="../Delay Line/_Delay Line.lvlib"/>

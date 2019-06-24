@@ -15,5 +15,6 @@
 		<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
 	</Item>
 	<Item Name="Create Message Queues.vi" Type="VI" URL="../Create Message Queues.vi"/>
+	<Item Name="Dequeue Message.vi" Type="VI" URL="../Dequeue Message.vi"/>
 	<Item Name="Enqueue Message.vi" Type="VI" URL="../Enqueue Message.vi"/>
 </Library>
