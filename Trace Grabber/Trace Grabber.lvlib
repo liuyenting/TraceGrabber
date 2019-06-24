@@ -4,9 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Typedefs" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Settings.ctl" Type="VI" URL="../Settings.ctl"/>
+	<Item Name="Support VIs" Type="Folder">
+		<Item Name="Scan Engine States.ctl" Type="VI" URL="../Scan Engine States.ctl"/>
+		<Item Name="Settings.ctl" Type="VI" URL="../Settings.ctl">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="UI Event Loop States.ctl" Type="VI" URL="../UI Event Loop States.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
