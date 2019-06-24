@@ -13,17 +13,22 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Support VIs" Type="Folder">
+			<Item Name="Message Queue.lvlib" Type="Library" URL="../Support VIs/Message Queue/Message Queue.lvlib"/>
+			<Item Name="Stop Event.lvlib" Type="Library" URL="../Support VIs/Stop Event/Stop Event.lvlib"/>
+		</Item>
 		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>
 		<Item Name="tg_config.ini" Type="Document" URL="../tg_config.ini"/>
-		<Item Name="User Interface.lvlib" Type="Library" URL="../User Interface/User Interface.lvlib"/>
-		<Item Name="Controllers.lvlib" Type="Library" URL="../Controllers/Controllers.lvlib"/>
-		<Item Name="Delay Line.lvlib" Type="Library" URL="../Delay Line/Delay Line.lvlib"/>
-		<Item Name="Photon Counter.lvlib" Type="Library" URL="../Photon Counter/Photon Counter.lvlib"/>
-		<Item Name="Configurations.lvlib" Type="Library" URL="../Configurations/Configurations.lvlib"/>
 		<Item Name="Drivers.lvlib" Type="Library" URL="../Drivers/Drivers.lvlib"/>
 		<Item Name="Trace Grabber.lvlib" Type="Library" URL="../Trace Grabber/Trace Grabber.lvlib"/>
-		<Item Name="Scan Engine States.ctl" Type="VI" URL="../Trace Grabber/Scan Engine States.ctl"/>
-		<Item Name="UI Event Loop States.ctl" Type="VI" URL="../Trace Grabber/UI Event Loop States.ctl"/>
+		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
+		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
+		<Item Name="Scanner.lvlib" Type="Library" URL="../Scanner/Scanner.lvlib"/>
+		<Item Name="_User Interface.lvlib" Type="Library" URL="../User Interface/_User Interface.lvlib"/>
+		<Item Name="_Controllers.lvlib" Type="Library" URL="../Controllers/_Controllers.lvlib"/>
+		<Item Name="_Delay Line.lvlib" Type="Library" URL="../Delay Line/_Delay Line.lvlib"/>
+		<Item Name="_Photon Counter.lvlib" Type="Library" URL="../Photon Counter/_Photon Counter.lvlib"/>
+		<Item Name="_Configurations.lvlib" Type="Library" URL="../Configurations/_Configurations.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
