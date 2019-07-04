@@ -4,10 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Driver" Type="Folder">
-		<Item Name="C8855-01.lvlib" Type="Library" URL="../../Drivers/C8855-01/C8855-01.lvlib"/>
-	</Item>
-	<Item Name="Abstract Photon Counter.lvclass" Type="LVClass" URL="../Abstract Photon Counter/Abstract Photon Counter.lvclass"/>
-	<Item Name="C8855 (DAQmx Trigger).lvclass" Type="LVClass" URL="../C8855 (DAQmx Trigger)/C8855 (DAQmx Trigger).lvclass"/>
-	<Item Name="Simulate.lvclass" Type="LVClass" URL="../Simulate/Simulate.lvclass"/>
+	<Item Name="Agilis.lvlib" Type="Library" URL="../Agilis/Agilis.lvlib"/>
+	<Item Name="C8855-01.lvlib" Type="Library" URL="../C8855-01/C8855-01.lvlib"/>
 </Library>

@@ -4,10 +4,4 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Driver" Type="Folder">
-		<Item Name="ODL-150.lvlib" Type="Library" URL="../../Drivers/ODL-150/ODL-150.lvlib"/>
-	</Item>
-	<Item Name="Abstract Delay Line.lvclass" Type="LVClass" URL="../Abstract Delay Line/Abstract Delay Line.lvclass"/>
-	<Item Name="DAQmx Delay Line.lvclass" Type="LVClass" URL="../DAQmx Delay Line/DAQmx Delay Line.lvclass"/>
-	<Item Name="Simulate.lvclass" Type="LVClass" URL="../Simulate/Simulate.lvclass"/>
 </Library>

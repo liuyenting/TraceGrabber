@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
-	<Property Name="NI.Lib.ContainingLib" Type="Str">Photon Counter.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Photon Counter/Photon Counter.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLib" Type="Str">Drivers.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Drivers.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)U!!!*Q(C=\&gt;;\==*1%)8BA]?"5TLQU-*7Y"EVY%!N&lt;!OEBEAN&lt;/!';)()_&lt;:!#\2A`\J;_45?=)"H##RR%:T\_J#O.%BNOZ.O^8JOU]FNLG`(+G/HO?.]'&amp;]@_^4U;`XP__P4#$`0`SU`[&lt;`-\`_P`[_`TPLTS`PJ`%XQNZOUG/`[J!4&amp;+4&lt;&gt;S5G?Z%G?Z%G?Z%%?Z%%?Z%%?Z%\OZ%\OZ%\OZ%:OZ%:OZ%:O]X/&amp;8/1CF\5(34*Z-F%S;$*!UBC+EL@%EXA34_,BKR*0YEE]C3@RU%3**`%EHM34?/CGR*.Y%E`C34Q-V34:&gt;H)]C9@B&amp;8A#4_!*0)'(+26Y!E!Q74"Q-!A-":8"B]!4?!)0(R6Y!E`A#4S"BWI&amp;HM!4?!*0Y+&amp;,/SP2././DI&gt;BZ(A=D_.R0)[(I?6Y()`D=4S/B_HE?"S0AX!G&gt;!;()+?4U]$ZYHA=$Q=Z(M@D?"S0Y['K83&amp;P:W&lt;5D$MZ(M.D?!S0Y4%]$#($9XA-D_%R0!QLQW.Y$)`B-4R-*=.D?!S0!4%G:8I:ARE&gt;D5:'9(BYN&gt;6C\3J&amp;EVD&lt;[^;=&amp;KJK!;I7FGL"K";#[A+L,JTKAKB/N/I%KE[-[A?L@IA+K*J9.;#KI9[](SB\SIYS5.;5HN*26J4FW08#$9`(IQ[(A`&lt;\P8;\H9:BU(K^6N`X[LJ/K^6+S_8S`7FVTTZNC`GZ^-4HT@$]MOU@&amp;^O\]&gt;A^&lt;)&lt;9D0F=`R&gt;F?CZ&gt;Q\.2._``BOI=P1'Q]UI8!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
