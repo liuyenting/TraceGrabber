@@ -11,7 +11,6 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Enqueue Message (Multiple).vi" Type="VI" URL="../Enqueue Message (Multiple).vi"/>
 		<Item Name="Enqueue Message (Single).vi" Type="VI" URL="../Enqueue Message (Single).vi"/>
-		<Item Name="Message Queues.ctl" Type="VI" URL="../Message Queues.ctl"/>
 		<Item Name="Message.ctl" Type="VI" URL="../Message.ctl"/>
 		<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
 	</Item>

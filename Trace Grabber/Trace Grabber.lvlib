@@ -11,6 +11,7 @@
 		<Item Name="Create Stop Event.vi" Type="VI" URL="../Create Stop Event.vi"/>
 		<Item Name="Destory Stop Event.vi" Type="VI" URL="../Destory Stop Event.vi"/>
 		<Item Name="Fire Stop Event.vi" Type="VI" URL="../Fire Stop Event.vi"/>
+		<Item Name="Message Queues.ctl" Type="VI" URL="../../Support VIs/Message Queue/Message Queues.ctl"/>
 		<Item Name="Scan Engine States.ctl" Type="VI" URL="../Scan Engine States.ctl"/>
 		<Item Name="Settings.ctl" Type="VI" URL="../Settings.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

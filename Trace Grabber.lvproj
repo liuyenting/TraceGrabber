@@ -32,6 +32,7 @@
 		<Item Name="_Delay Line.lvlib" Type="Library" URL="../Delay Line/_Delay Line.lvlib"/>
 		<Item Name="_Photon Counter.lvlib" Type="Library" URL="../Photon Counter/_Photon Counter.lvlib"/>
 		<Item Name="_Configurations.lvlib" Type="Library" URL="../Configurations/_Configurations.lvlib"/>
+		<Item Name="Acquisition State.ctl" Type="VI" URL="../Acquisition/Acquisition State.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
