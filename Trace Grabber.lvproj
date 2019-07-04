@@ -30,8 +30,6 @@
 		<Item Name="_User Interface.lvlib" Type="Library" URL="../User Interface/_User Interface.lvlib"/>
 		<Item Name="_Controllers.lvlib" Type="Library" URL="../Controllers/_Controllers.lvlib"/>
 		<Item Name="_Delay Line.lvlib" Type="Library" URL="../Delay Line/_Delay Line.lvlib"/>
-		<Item Name="_Photon Counter.lvlib" Type="Library" URL="../Photon Counter/_Photon Counter.lvlib"/>
-		<Item Name="_Configurations.lvlib" Type="Library" URL="../Configurations/_Configurations.lvlib"/>
 		<Item Name="Acquisition State.ctl" Type="VI" URL="../Acquisition/Acquisition State.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -262,6 +260,8 @@
 			<Item Name="AgilisCmdLib" Type="VI" URL="AgilisCmdLib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="_Photon Counter.lvlib" Type="Library" URL="../Photon Counter/_Photon Counter.lvlib"/>
+			<Item Name="_Configurations.lvlib" Type="Library" URL="../Configurations/_Configurations.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Application" Type="EXE">
