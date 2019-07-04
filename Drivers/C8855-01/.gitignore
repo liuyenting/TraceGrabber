@@ -1,2 +1,3 @@
 # API
-!*.dll
+!C8855-01api.dll
+!libusb0.dll

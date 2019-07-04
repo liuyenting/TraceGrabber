@@ -35,7 +35,7 @@
 		<Item Name="Transfer Mode.ctl" Type="VI" URL="../Transfer Mode.ctl"/>
 		<Item Name="Trigger Mode.ctl" Type="VI" URL="../Trigger Mode.ctl"/>
 	</Item>
-	<Item Name="Utils" Type="Folder">
+	<Item Name="Support VIs" Type="Folder">
 		<Item Name="Convert Real Time to Gate Time Option.vi" Type="VI" URL="../Convert Real Time to Gate Time Option.vi"/>
 		<Item Name="Error Converter.vi" Type="VI" URL="../Error Converter.vi"/>
 	</Item>
