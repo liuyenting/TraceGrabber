@@ -6,5 +6,4 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Delay Line.lvclass" Type="LVClass" URL="../Abstract Delay Line/Abstract Delay Line.lvclass"/>
 	<Item Name="DAQmx Delay Line.lvclass" Type="LVClass" URL="../DAQmx Delay Line/DAQmx Delay Line.lvclass"/>
-	<Item Name="Simulate.lvclass" Type="LVClass" URL="../Simulate/Simulate.lvclass"/>
 </Library>
